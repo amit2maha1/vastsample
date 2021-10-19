@@ -33,7 +33,7 @@
 
 						<MediaFiles>
 							<MediaFile delivery="progressive" bitrate="400" width='' height='' type="audio/mp4" scalable="true" maintainAspectRatio="true">
-								<![CDATAhttps://assets.g-mana.online/media/assets/30s-cd.m4a]]>
+								<![CDATA[https://assets.g-mana.online/media/assets/30s-cd.m4a]]>
 							</MediaFile>
 						</MediaFiles>
 					</Linear>
